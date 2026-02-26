@@ -187,9 +187,11 @@ class AISecurityWorkshop:
 [![微信公众号](https://img.shields.io/badge/微信公众号-AI安全工坊-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://mp.weixin.qq.com)
 [![AISecKit](https://img.shields.io/badge/AISecKit-AI安全工具库-FF6B35?style=for-the-badge&logo=security&logoColor=white)](https://aiseckit.com)
 [![GitHub](https://img.shields.io/badge/GitHub-taielab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taielab)
+<br/>
 [![X (Twitter)](https://img.shields.io/badge/X-@JackW__AGI-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JackW_AGI)
 [![Medium](https://img.shields.io/badge/Medium-@JackW__AGI-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@JackW_AGI)
 [![Reddit](https://img.shields.io/badge/Reddit-JackW__AIWorkFlow-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Recent-Arachnid-7888/)
+<br/>
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiseckit@gmail.com)
 
 ### 🌟 AISecKit - AI安全工具库
